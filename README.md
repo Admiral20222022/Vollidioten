@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Der deutsche
-## Header 2
-### Header 3
+## über uns
+### Diese Seite wurde erstellt um einen leichteren Start ins programieren zu schaffen.
 
 - Bulleted
 - List
