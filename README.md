@@ -2,39 +2,35 @@
 
 [https://www.youtube.com/] for ultimate Video feeling
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hier ist deutschland am Start
 
 ### Die Deutsche Website
 
 Diese Seite ist frei für alle um dumm zu werden!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Und das Stimmt
 und vergessen sie nie
-Bei REisiken und nebenwirkungen fressen sie die Pakungsbeilage und erschießen sie ihren arzt oder Apotheker!!!!!
+Bei Risiken und nebenwirkungen fressen sie die Pakungsbeilage und erschießen sie ihren arzt oder Apotheker!!!!!
 
-```markdown
-Syntax highlighted code block
 
 # Der deutsche
 ## über uns
 ### Diese Seite wurde erstellt um einen leichteren Start ins programieren zu schaffen.
 
 - Wir sind in deutschland
-- 32 in Main
+- 32
 
-1. Numbered
-2. List
+1. Hauptsitz
+2. 34
 
-**Bold** and _Italic_ and `Code` text
+**Filme**
 
-[https://ldvc.sharepoint.com/sites/InfoHub-LDVC](url) and ![Image](src)
+[https://ldvc.sharepoint.com/sites/InfoHub-LDVC](url) and ![https://ldvc.sharepoint.com/sites/4dummeeinGedanje](url)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### vrtzk
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Admiral20222022/Vollidioten/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hier bei vrtzk wird nicht gespielt und Spaß gemacht hier ist harte Arbeit gefragt um weiterzukommen.
+der Sitz ist in Deutschland
 
 ### kein Support
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+hier gibt es kein Support. Also ist alles auf eigene Gefahr
+aber es gibt eine Löseung. Ihr könnt nähmlich sterben.
