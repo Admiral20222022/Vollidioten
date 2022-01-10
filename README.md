@@ -1,12 +1,15 @@
 ## Welcome to the german site
 
-You can use the [editor on GitHub](https://github.com/Admiral20222022/Vollidioten/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[https://www.youtube.com/] for ultimate Video feeling
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Die Deutsche Website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Diese Seite ist frei für alle um dumm zu werden!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Und das Stimmt
+und vergessen sie nie
+Bei REisiken und nebenwirkungen fressen sie die Pakungsbeilage und erschießen sie ihren arzt oder Apotheker!!!!!
 
 ```markdown
 Syntax highlighted code block
@@ -32,6 +35,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Admiral20222022/Vollidioten/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### kein Support
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
