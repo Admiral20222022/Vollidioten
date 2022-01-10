@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Admiral20222022/Vollidiote
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Die Deutsche Website
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## über uns
 ### Diese Seite wurde erstellt um einen leichteren Start ins programieren zu schaffen.
 
-- Bulleted
-- List
+- Wir sind in deutschland
+- 32 in Main
 
 1. Numbered
 2. List
